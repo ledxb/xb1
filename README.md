@@ -45,13 +45,10 @@ apt update && apt upgrade && apt install git -y && git clone https://github.com/
 
 ## Screenshot
 ### Main menu
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/main_menu.jpg)
 
 ### Input passwordlist
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/pass.jpg)
 
 ### Setup
-![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/setup.jpg)
 
 ### Attacking
 ![photo](https://raw.githubusercontent.com/MrHacker-X/BruteX/main/.img/attacking.jpg)
@@ -60,10 +57,3 @@ apt update && apt upgrade && apt install git -y && git clone https://github.com/
 + Run ```tor``` in another session when you're work with Instagram hack
 + Simply type ``` tor ``` and enter for run it
 
-#### Created By : MrHacker-X
-
-<h3><b><i>📡 Connect with us :</i></b></h3>
-<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/github.png" /></a>
-<a href="https://instagram.com/hackerxmr/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/instagram.png" /></a>
-<a href="https://t.me/hackwithalex"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/telegram.png" /></a>
-<a href="https://youtube.com/@Technolex//"><img align="left" title="YouTube" alt="YouTube" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/youtube.png" /></a>
